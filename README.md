@@ -1,0 +1,4 @@
+- 👋  Hi, I’m @haishengXie0712
+- 👀  I’m interested in JavaScript, Golang and eat delicious foods.
+- 🌱  I’m currently learning webGl
+- 📫  How to reach me haishengxie@126.com
